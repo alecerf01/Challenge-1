@@ -4,7 +4,7 @@
  
 As part of a weekly challenge, I have been set to make a set of starter code more accessible so that the site is optomised for search engines. Starting by downloading and pulling the starter code onto my computer and altering it so the functionality of the page doesn't change, but the doe itself is consolidated and any redundancies are removed.
 
-![Link to deployed website.](https://alecerf01.github.io/Challenge-1/)
+[Link to deployed website.](https://alecerf01.github.io/Challenge-1/)
 
 ### Mock-Up
 
